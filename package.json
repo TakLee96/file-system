@@ -1,0 +1,24 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "description": "an in-browser file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TakLee96/file-system.git"
+  },
+  "keywords": [
+    "in-browser",
+    "file",
+    "system"
+  ],
+  "author": "JiaHang Li <jiahang_li@outlook.com> (http://jiahangli.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakLee96/file-system/issues"
+  },
+  "homepage": "https://github.com/TakLee96/file-system#readme"
+}
