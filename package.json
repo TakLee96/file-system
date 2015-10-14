@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/TakLee96/file-system/issues"
   },
-  "homepage": "https://github.com/TakLee96/file-system#readme"
+  "scripts": {
+    "start": "node index.js"
+  },
+  "homepage": "https://github.com/TakLee96/file-system#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
